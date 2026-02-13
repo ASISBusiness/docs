@@ -33,7 +33,7 @@
     "csurf": "^1.11.0",
     "dayjs": "^1.10.4",
     "dotenv": "^9.0.2",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-rate-limit": "^5.2.6",
     "express-timeout-handler": "^2.2.0",
     "flat": "^5.0.2",
@@ -172,7 +172,7 @@
     "website-scraper": "^4.2.3"
   },
   "optionalDependencies": {
-    "jest-puppeteer": "^5.0.3",
+    "jest-puppeteer": "^7.0.0",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.1",
     "puppeteer": "^9.1.1",
